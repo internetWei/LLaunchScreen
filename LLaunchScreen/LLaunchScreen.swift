@@ -8,7 +8,7 @@
 import UIKit
 
 
-enum LLaunchScreenType: String {
+public enum LLaunchScreenType: String {
     case verticalLight
     case horizontalLight
     
@@ -30,7 +30,7 @@ private var launchImage_restoreAsBefore = false
 private var launchImage_repairException = false
 
 
-class LLaunchScreen: NSObject {
+public class LLaunchScreen: NSObject {
     
     
     // MARK: - Public
