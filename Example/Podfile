@@ -1,0 +1,6 @@
+use_frameworks!
+target 'LLaunchScreen_Tests' do
+  pod 'LLaunchScreen', :path => '../'
+  
+  
+end
