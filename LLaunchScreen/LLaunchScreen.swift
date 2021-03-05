@@ -7,7 +7,6 @@
 
 import UIKit
 
-
 public enum LLaunchScreenType: String {
     case verticalLight
     case horizontalLight
