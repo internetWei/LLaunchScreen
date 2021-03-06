@@ -184,7 +184,7 @@ public class LLaunchScreen: NSObject {
     }
     
         
-    @objc public class func finishLaunching() {
+    public class func finishLaunching() {
         
         self.initializeSwift()
         
@@ -205,9 +205,9 @@ public class LLaunchScreen: NSObject {
     
     
     /// 备份启动图(Backup launch image)
-    @objc public class func backupSystemLaunchImage() {
+    public class func backupSystemLaunchImage() {
         
-        self.launchImageIsNewVersion(identifier: NSStringFromSelector(#selector(backupSystemLaunchImage))) {
+        self.launchImageIsNewVersion(identifier: "backupSystemLaunchImage") {
             
             var supportHorizontalScreen: Bool {
                 get {
