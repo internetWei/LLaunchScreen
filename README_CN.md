@@ -1,10 +1,10 @@
 LLaunchScreen
 ==============
-[![LLaunchScreen CI](https://github.com/internetWei/LLaunchScreen/workflows/LLaunchScreen%20CI/badge.svg)](https://github.com/internetWei/LLaunchScreen/actions)&nbsp;&nbsp; [![License MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/internetWei/LLaunchScreen/blob/master/LICENSE)&nbsp;&nbsp; [![CocoaPods](https://img.shields.io/badge/pod-0.1.1-blue)](http://cocoapods.org/pods/LLaunchScreen)&nbsp;&nbsp; [![Platform](https://img.shields.io/badge/platform-ios-lightgrey)](https://www.apple.com/nl/ios)&nbsp;&nbsp; [![Support](https://img.shields.io/badge/support-iOS%209%2B-blue)](https://www.apple.com/nl/ios)
+[![LLaunchScreen CI](https://github.com/internetWei/LLaunchScreen/workflows/LLaunchScreen%20CI/badge.svg)](https://github.com/internetWei/LLaunchScreen/actions)&nbsp;&nbsp; [![License MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/internetWei/LLaunchScreen/blob/master/LICENSE)&nbsp;&nbsp; [![CocoaPods](https://img.shields.io/badge/pod-0.1.1-blue)](http://cocoapods.org/pods/LLaunchScreen)&nbsp;&nbsp; [![Platform](https://img.shields.io/badge/platform-ios-lightgrey)](https://www.apple.com/nl/ios)&nbsp;&nbsp; [![Support](https://img.shields.io/badge/support-iOS%209%2B-blue)](https://www.apple.com/nl/ios)&nbsp;&nbsp; [![blog](https://img.shields.io/badge/blog-budo-blue)](https://internetwei.github.io/)
 
 自动修复iPhone启动图显示异常，1行代码修改启动图
 
-[点击访问OC版本](https://github.com/internetwei/LLDynamicLaunchScreen)
+[OC版本](https://github.com/internetwei/LLDynamicLaunchScreen)
 
 特性
 ==============
@@ -50,8 +50,8 @@ LLaunchScreen.launchImage(from: .verticalLight)
 3. import LLaunchScreen
 
 ### 手动安装
-1. 下载 LLaunchScreen 文件夹内的所有内容
-2. 将LLaunchScreen文件夹添加(拖放)到你的工程
+1. 下载`LLaunchScreen`文件夹内的所有内容
+2. 将`LLaunchScreen`文件夹添加(拖放)到你的工程
 
 系统要求
 ==============

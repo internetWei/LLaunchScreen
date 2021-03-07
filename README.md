@@ -1,12 +1,12 @@
 LLaunchScreen
 ==============
-[![LLaunchScreen CI](https://github.com/internetWei/LLaunchScreen/workflows/LLaunchScreen%20CI/badge.svg)](https://github.com/internetWei/LLaunchScreen/actions)&nbsp;&nbsp; [![License MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/internetWei/LLaunchScreen/blob/master/LICENSE)&nbsp;&nbsp; [![CocoaPods](https://img.shields.io/badge/pod-0.1.1-blue)](http://cocoapods.org/pods/LLaunchScreen)&nbsp;&nbsp; [![Platform](https://img.shields.io/badge/platform-ios-lightgrey)](https://www.apple.com/nl/ios)&nbsp;&nbsp; [![Support](https://img.shields.io/badge/support-iOS%209%2B-blue)](https://www.apple.com/nl/ios)
+[![LLaunchScreen CI](https://github.com/internetWei/LLaunchScreen/workflows/LLaunchScreen%20CI/badge.svg)](https://github.com/internetWei/LLaunchScreen/actions)&nbsp;&nbsp; [![License MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/internetWei/LLaunchScreen/blob/master/LICENSE)&nbsp;&nbsp; [![CocoaPods](https://img.shields.io/badge/pod-0.1.1-blue)](http://cocoapods.org/pods/LLaunchScreen)&nbsp;&nbsp; [![Platform](https://img.shields.io/badge/platform-ios-lightgrey)](https://www.apple.com/nl/ios)&nbsp;&nbsp; [![Support](https://img.shields.io/badge/support-iOS%209%2B-blue)](https://www.apple.com/nl/ios)&nbsp;&nbsp; [![blog](https://img.shields.io/badge/blog-budo-blue)](https://internetwei.github.io/)
 
 Automatically fix iPhone startup diagram display abnormality, 1 line of code to modify the launch screen
 
 [中文介绍](https://github.com/internetWei/LLaunchScreen/blob/master/README_CN.md)
 
-[Click to visit OC version](https://github.com/internetWei/LLDynamicLaunchScreen)
+[OC Version](https://github.com/internetWei/LLDynamicLaunchScreen)
 
 Features
 ==============
@@ -52,8 +52,8 @@ Installation
 3. import LLaunchScreen
 
 ### Manually
-1. Download all the files in the LLaunchScreen subdirectory
-2. Add (drag and drop) the LLaunchScreen folder to your project
+1. Download all the files in the `LLaunchScreen` subdirectory
+2. Add (drag and drop) the `LLaunchScreen` folder to your project
 
 Requirements
 ==============
